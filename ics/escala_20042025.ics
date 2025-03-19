@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Escala de Limpeza//EN
+BEGIN:VEVENT
+UID:20250420-ViniciuseJoylson@escala.com
+DTSTAMP:20250319T183848Z
+DTSTART;TZID=America/Sao_Paulo:20250420T170000
+DTEND;TZID=America/Sao_Paulo:20250420T180000
+SUMMARY:Escala de Limpeza - Vinicius e Joylson
+DESCRIPTION:Adicione este evento ao seu calendário.
+END:VEVENT
+END:VCALENDAR
