@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Escala de Limpeza//EN
+BEGIN:VEVENT
+UID:20250504-LucasLeliseMariaLuiza@escala.com
+DTSTAMP:20250319T183850Z
+DTSTART;TZID=America/Sao_Paulo:20250504T170000
+DTEND;TZID=America/Sao_Paulo:20250504T180000
+SUMMARY:Escala de Limpeza - Lucas Lelis e Maria Luiza
+DESCRIPTION:Adicione este evento ao seu calendário.
+END:VEVENT
+END:VCALENDAR
