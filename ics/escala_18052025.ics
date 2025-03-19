@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Escala de Limpeza//EN
+BEGIN:VEVENT
+UID:20250518-LeticiaeKim@escala.com
+DTSTAMP:20250319T183851Z
+DTSTART;TZID=America/Sao_Paulo:20250518T170000
+DTEND;TZID=America/Sao_Paulo:20250518T180000
+SUMMARY:Escala de Limpeza - Leticia e Kim
+DESCRIPTION:Adicione este evento ao seu calendário.
+END:VEVENT
+END:VCALENDAR
